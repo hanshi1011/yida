@@ -118,8 +118,8 @@ input {
 
 
 
-.li-l{width:1.24rem;height:0.6rem;text-align: center;line-height: 0.6rem;border:1px solid #ccc;}
-.li-r{width:2.48rem;height:0.6rem;text-align: center;line-height: 0.6rem;border:1px solid #ccc;border-left: none;}
+.li-l{width:1.2rem;height:0.6rem;text-align: center;line-height: 0.6rem;border:1px solid #ccc;}
+.li-r{width:2.4rem;height:0.6rem;text-align: center;line-height: 0.6rem;border:1px solid #ccc;border-left: none;}
 
 .topl, .topr{height: 0.3rem;line-height: 0.3rem;}
 .li1{background:url(../images/1.png) no-repeat;background-size:80%;background-position:center center;}
